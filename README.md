@@ -1,4 +1,4 @@
-# AllClaimPlotCommand
+# AllClaimPlotCommand   [![](https://poggit.pmmp.io/shield.state/AllClaimPlotCommand)](https://poggit.pmmp.io/p/AllClaimPlotCommand)
 With this plugin you can instantly automatically give a plot to all online players on your server! This plugin only works with the plugin <a href="https://github.com/jasonwynn10/MyPlot">MyPlot</a> by <a href="https://github.com/jasonwynn10">jasonwhynn10</a>!
 
 

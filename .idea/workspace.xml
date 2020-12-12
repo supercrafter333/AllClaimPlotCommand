@@ -13,7 +13,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="bb0f1be248d3acc2fe6bdede1a0e80000a8837eb" />
+        <entry key="$PROJECT_DIR$" value="dev" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,7 +61,7 @@
       <workItem from="1607783397560" duration="136000" />
       <workItem from="1607783547477" duration="242000" />
       <workItem from="1607783808139" duration="57000" />
-      <workItem from="1607783868782" duration="10000" />
+      <workItem from="1607783868782" duration="207000" />
     </task>
     <task id="LOCAL-00001" summary="Add files">
       <created>1607529282486</created>
@@ -129,7 +129,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="dev" />
+                        <option value="master" />
                       </list>
                     </value>
                   </entry>

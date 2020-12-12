@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="464421eb-afb2-4970-ae43-dedc5b607dde" name="Default Changelist" comment="some bug fixes">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="464421eb-afb2-4970-ae43-dedc5b607dde" name="Default Changelist" comment="some bug fixes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -64,7 +61,7 @@
       <workItem from="1607783397560" duration="136000" />
       <workItem from="1607783547477" duration="242000" />
       <workItem from="1607783808139" duration="57000" />
-      <workItem from="1607783868782" duration="791000" />
+      <workItem from="1607783868782" duration="802000" />
     </task>
     <task id="LOCAL-00001" summary="Add files">
       <created>1607529282486</created>
@@ -122,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607784086838</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="some bug fixes">
+      <created>1607784665079</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1607784665079</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

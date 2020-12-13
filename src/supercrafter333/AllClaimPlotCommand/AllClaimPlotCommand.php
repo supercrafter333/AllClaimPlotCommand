@@ -29,7 +29,7 @@ class AllClaimPlotCommand extends PluginBase
         foreach($this->getServer()->getOnlinePlayers() as $player) {
             $levelName = $player->getLevelNonNull()->getFolderName();
             if(!MyPlot::getInstance()->isLevelLoaded($levelName)) {
-                $player->sendMessage($this->getConfig()->get("not-in-plot-world-message"));
+                $s->sendMessage($this->getConfig()->get("not-in-plot-world-message"));
                 continue;
             }
             if(($plot = MyPlot::getInstance()->getNextFreePlot($levelName)) !== null && MyPlot::getInstance()->teleportPlayerToPlot($player, $plot, true)) {

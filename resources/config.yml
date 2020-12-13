@@ -1,7 +1,7 @@
 #here you can set the messages
 successfull-message: "§aYou've successfully given a plot to all players!"
 broadcast-successfull-message: "§aEach player was given a plot of land!"
-no-permision-message: "§cSorry! You do not have permissions to use this command!"
+no-permission-message: "§cSorry! You do not have permissions to use this command!"
 not-in-plot-world-message: "§cYou are not in a plot world!"
 
 #don't change this

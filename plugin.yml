@@ -7,14 +7,17 @@ depend:
   - MyPlot
 
 commands:
-  acp:
+  allclaimplot:
     description: Give every player automatically a plot!
     aliases:
-      - allclaimplot
+      - acp
+    permission: "allclaimplotcommand.allclaimplot.cmd"
 
 permissions:
   allclaimplot.admin:
     description: All permissions for the Plugin
+    default: op
     children:
       allclaimplotcommand.allclaimplot.cmd:
         description: Command permission
+        default: op

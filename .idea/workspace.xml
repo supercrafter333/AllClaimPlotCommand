@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="464421eb-afb2-4970-ae43-dedc5b607dde" name="Default Changelist" comment="fix a lost pocketmine command bug">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/plugin.yml" beforeDir="false" afterPath="$PROJECT_DIR$/plugin.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/resources/config.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/supercrafter333/AllClaimPlotCommand/AllClaimPlotCommand.php" beforeDir="false" afterPath="$PROJECT_DIR$/src/supercrafter333/AllClaimPlotCommand/AllClaimPlotCommand.php" afterDir="false" />
-    </list>
+    <list default="true" id="464421eb-afb2-4970-ae43-dedc5b607dde" name="Default Changelist" comment="fixed some bugs" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +63,7 @@
       <workItem from="1607783808139" duration="57000" />
       <workItem from="1607783868782" duration="802000" />
       <workItem from="1607861315332" duration="869000" />
-      <workItem from="1607872156258" duration="96000" />
+      <workItem from="1607872156258" duration="175000" />
     </task>
     <task id="LOCAL-00001" summary="Add files">
       <created>1607529282486</created>
@@ -140,7 +135,14 @@
       <option name="project" value="LOCAL" />
       <updated>1607849003801</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fixed some bugs">
+      <created>1607872273045</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607872273045</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -178,6 +180,7 @@
     <MESSAGE value="some bug fixes" />
     <MESSAGE value="fix a lost pocketmine command bug" />
     <MESSAGE value="Revert &quot;fix a lost pocketmine command bug&quot;&#10;&#10;This reverts commit 41609fde" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;fix a lost pocketmine command bug&quot;&#10;&#10;This reverts commit 41609fde" />
+    <MESSAGE value="fixed some bugs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed some bugs" />
   </component>
 </project>

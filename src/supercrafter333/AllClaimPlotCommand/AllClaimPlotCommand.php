@@ -21,7 +21,7 @@ class AllClaimPlotCommand extends PluginBase
             $this->getLogger()->error("OUTDATED CONFIG.YML!! Your config.yml is outdated! Please delete the file and restart your server to Update the config.yml!");
             $this->getServer()->getPluginManager()->disablePlugin($this);
         }
-        $this->getCommand("acp")->setPermissionMessage($this->getConfig()->get("no-permission-message"));
+        $this->getCommand("allclaimplot")->setPermissionMessage($this->getConfig()->get("no-permission-message"));
     }
 
     public function onCommand(CommandSender $s, Command $cmd, string $label, array $args): bool

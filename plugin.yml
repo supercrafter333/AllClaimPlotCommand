@@ -7,10 +7,10 @@ depend:
   - MyPlot
 
 commands:
-  allclaimplot:
+  acp:
     description: Give every player automatically a plot!
     aliases:
-      - acp
+      - allclaimplot
     permission: "allclaimplotcommand.allclaimplot.cmd"
 
 permissions:
